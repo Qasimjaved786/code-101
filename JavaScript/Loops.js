@@ -1,6 +1,13 @@
-let friendsAtYourParty = 0;
-//we use "let" instead of "const" coz it is reassigned{
-while (friendsAtYourParty < 10) {
-  friendsAtYourParty = friendsAtYourParty + 1;
+let friendsAtYourParty =24;
+while(friendsAtYourParty<24){
+    friendsAtYourParty++;
 }
 console.log(friendsAtYourParty);
+
+
+
+
+
+
+
+    
