@@ -91,4 +91,4 @@ function init() {
     buttonClick(event.target.innerText);
   });
 }
-alert ("Hey,this is calculator");
+alert ("Hey,this is calculator")
